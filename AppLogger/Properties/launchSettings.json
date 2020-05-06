@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AppLogger": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}

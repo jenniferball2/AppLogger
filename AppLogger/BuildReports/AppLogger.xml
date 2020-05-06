@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppLogger</name>
+    </assembly>
+    <members>
+        <member name="T:Logger">
+            <Summary>
+             
+            </Summary>
+        </member>
+        <member name="M:Logger.Log(System.String)">
+            <Summary>
+             
+            </Summary> 
+        </member>
+    </members>
+</doc>
